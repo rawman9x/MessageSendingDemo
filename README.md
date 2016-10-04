@@ -1,2 +1,2 @@
 # MessageSendingDemo
-first app in google android
+a plugin for wordpress. Sms services ingrated woocommerce application ( the bestplugin for e-commerce )
